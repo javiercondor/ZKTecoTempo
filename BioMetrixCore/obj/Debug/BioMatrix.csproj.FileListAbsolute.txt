@@ -1,0 +1,3 @@
+C:\Users\JavierCondor\Downloads\BioMatrix\BioMetrixCore\obj\Debug\BioMatrix.csproj.AssemblyReference.cache
+C:\Users\JavierCondor\Downloads\BioMatrix\BioMetrixCore\obj\Debug\BioMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\JavierCondor\Downloads\BioMatrix\BioMetrixCore\obj\Debug\BioMatrix.csproj.CoreCompileInputs.cache
